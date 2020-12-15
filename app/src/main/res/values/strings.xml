@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HandlerThread</string>
+    <string name="todo">TODO</string>
+    <string name="imageViewText" />
+    <string name="stopBtn">Stop</string>
+    <string name="startBtn">Start</string>
+    <string name="galleryPermissionDenied">Gallery permission denied</string>
+</resources>
